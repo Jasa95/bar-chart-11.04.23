@@ -1,3 +1,14 @@
 body{
     background-color: aliceblue
 };
+
+  .column {
+        display: inline-block;
+        width: 20px;
+        margin-right: 5px;
+        background-color: blue;
+      }
+
+.char{
+    color: azure;
+}

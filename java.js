@@ -1,7 +1,13 @@
 "use strict";
 
 
+window.addEventListener("load", start);
 
+let 
+
+function start() {
+    
+}
 
 
 function getNumberOfCostumers() {
